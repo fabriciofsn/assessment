@@ -4,4 +4,6 @@
 ## 2º type on terminal npm install or yarn install
 ## 3º open the project on vscode and execute the code on terminal -> npm run start:dev or yarn start:dev
 
+### to make it easier to use I left the api keys right in the code
+
 # now you have the back server running
